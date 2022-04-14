@@ -1,0 +1,14 @@
+{
+    "name": "vendor/source",
+    "license": "MIT",
+    "autoload": {
+        "classmap": ["model","controller","routes"]
+    },
+    "authors": [
+        {
+            "name": "20040518alimardon",
+            "email": "alimardonsotvoldiev3@gmail.com"
+        }
+    ],
+    "require": {}
+}
